@@ -1,4 +1,4 @@
-# lua-windows-build
+# A Lua Build for Windows using Visual Studio
 A Visual Studio project that builds the Lua compiler.
 
 ## Building
